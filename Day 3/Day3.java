@@ -49,3 +49,4 @@ public class Day3 {
 // ACTIVITY: Make a program in which we get input from user on a letter, then
 // define it as a vowel or consonant. If we get A in input add 1 in A to make it
 // B.
+
