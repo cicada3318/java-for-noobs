@@ -20,4 +20,5 @@ Learning Java in 15 days.
 - for each loop
 ## Day 5
 - Arrays
-- Functions.
+- Methods
+- Method Overloading
