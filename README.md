@@ -22,3 +22,18 @@ Learning Java in 15 days.
 - Arrays
 - Methods
 - Method Overloading
+## Day 6
+- Intro to OOP
+- Basic classes and objects.
+## Day 7
+- Contructors
+- Constructor Overloading
+- Access Modifiers
+## Day 8
+- Basic inheritance concepts
+- Constructors and Inhertance
+## Day 9
+- Method overriding
+## Day 10
+- Abstract Classes
+- Interfaces
